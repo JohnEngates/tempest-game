@@ -4,7 +4,9 @@ A browser-based implementation of the classic 1981 arcade game Tempest, built wi
 
 ## 🎮 Play Now
 
-Open `index.html` in any modern web browser to play. No installation or build process required!
+**[Play online at tempest-game.pages.dev](https://tempest-game.pages.dev/)**
+
+Or download and open `index.html` in any modern web browser. No installation or build process required!
 
 ## 🕹️ Controls
 
